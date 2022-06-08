@@ -6,6 +6,3 @@
         "semi": ["error", "always"]
     }
 }
-
-//eslint js/app.js
-//eslint js/app.js --fix
